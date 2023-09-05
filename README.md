@@ -10,7 +10,7 @@ This image is based on *Alpine Linux* latest stable image.
 ### Mount / Volume
 | Volume  | Description                  |
 |---------|------------------------------|
-| `/main` | Target folder for local backup. |
+| `/mail` | Target folder for local backup. |
 
 ## Build
 ```
